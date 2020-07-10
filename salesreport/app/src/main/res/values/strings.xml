@@ -9,4 +9,25 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- Titles -->
+    <string name="feedstock_title">Feedstock</string>
+
+    <!-- Merchandise -->
+    <string name="merchandise_name_label">Name</string>
+    <string name="merchandise_name">Name:</string>
+
+    <string name="merchandise_description_label">Description</string>
+    <string name="merchandise_description">Description:</string>
+
+    <string name="merchandise_price_label">Price</string>
+    <string name="merchandise_price">Price:</string>
+
+    <!-- Generic -->
+    <string name="register">Register</string>
+
+    <!-- Exceptions -->
+    <string name="exception_field_name">Invalid value in the name field</string>
+    <string name="exception_field_description">Invalid value in the description field</string>
+    <string name="exception_field_price">Invalid value in the price field</string>
 </resources>

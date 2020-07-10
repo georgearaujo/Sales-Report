@@ -5,7 +5,6 @@ import java.time.LocalDateTime;
 import java.util.List;
 
 import br.com.georgearaujo.sales_report.customer.Customer;
-import br.com.georgearaujo.sales_report.product.Product;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

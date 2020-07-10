@@ -7,7 +7,28 @@
     <string name="second_fragment_label">Segunda tela</string>
     <string name="next">Proximo</string>
     <string name="previous">Anterior</string>
-
     <string name="hello_first_fragment">Olá, primeira tela</string>
     <string name="hello_second_fragment">Olá, segunda tela. Argumento: %1$s</string>
+
+    <!-- Titles -->
+    <string name="feedstock_title">Matéria-prima</string>
+
+    <!-- Merchandise -->
+    <string name="merchandise_name_label">Nome</string>
+    <string name="merchandise_name">Nome:</string>
+
+    <string name="merchandise_description_label">Descrição</string>
+    <string name="merchandise_description">Descrição:</string>
+
+    <string name="merchandise_price_label">Preço</string>
+    <string name="merchandise_price">Preço</string>
+
+    <!-- Generic -->
+    <string name="register">Cadastrar</string>
+
+    <!-- Exceptions -->
+    <string name="exception_field_name">Valor inválido no campo Nome</string>
+    <string name="exception_field_description">Valor inválido no campo Descrição</string>
+    <string name="exception_field_price">Valor inválido no campo Preço</string>
+
 </resources>

@@ -14,12 +14,12 @@ import lombok.Setter;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-public class Product extends Merchandise {
-    private List<Feedstock> feedstocks = new ArrayList<>();
+public class SetOfProducts extends Merchandise {
+    private List<Product> products = new ArrayList<>();
 
     public BigDecimal calculateAmount() {
         final BigDecimal amount = BigDecimal.ZERO;
-        for (Feedstock feedstock : feedstocks){amount.add(feedstock.getPrice());}
+        for (Product product : products){amount.add(product.getPrice());}
         return amount;
     }
 }
